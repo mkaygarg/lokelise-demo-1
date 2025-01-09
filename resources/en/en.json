@@ -7,5 +7,6 @@
   "warning": "This action cannot be undone.",
   "welcome_message": "Welcome to our application not any more",
   "welcome_message_again": "Welcome again",
-  "updated_translated_string": "Testing update in translated string."
+  "updated_translated_string": "Testing update in translated string.",
+  "testing_localize": "Testing localization."
 }
